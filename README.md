@@ -1,4 +1,4 @@
-[![github pages](http://img.shields.io/badge/-Github%20Pages-181717?style=flat-square&logo=github)](https://wolfi.in/) [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weisswolfi/)<br>
+[![github pages](http://img.shields.io/badge/-Github%20Pages-181717?style=flat-square&logo=github)](https://wolfi.in/) [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weisswolfi/)<br><br>
 ![stats](https://github-readme-stats.vercel.app/api?username=weisswolfi)
 
 ### Technical Skills
