@@ -1,7 +1,8 @@
 ### About Me
-I am a programmer who always pursues flexible structural design because I think project development is a continuous and uninterrupted continuation of development.
 
 [![github pages](http://img.shields.io/badge/-Github%20Pages-181717?style=flat-square&logo=github)](https://wolfi.in/) [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weisswolfi/)
+
+I am a programmer who always pursues flexible structural design because I think project development is a continuous and uninterrupted continuation of development.
 
 ### Technical Skills
 ![c#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c%20sharp) ![unity](http://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
