@@ -7,3 +7,5 @@
 
 ### Environment
 ![windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![windows](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![vs-code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+
+[Company Account](https://github.com/minsongbc)
