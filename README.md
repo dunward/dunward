@@ -1,4 +1,4 @@
-### About Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&customColorList=1&section=header&text=Elik%20Song&fontSize=48&fontAlign=85)
 
 [![github pages](http://img.shields.io/badge/-Github%20Pages-181717?style=flat-square&logo=github)](http://cave.to) [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dunward/)
 
